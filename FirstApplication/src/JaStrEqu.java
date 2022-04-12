@@ -11,7 +11,13 @@ public class JaStrEqu {
 		s2 = "ab";
 		s2 += "cd";
 		
+		if(s1.equals(s2)) {
+			ch = 'Y';
+		} else {
+			ch = 'N';
+		}
 		
+		System.out.println(ch);
 
 	}
 
