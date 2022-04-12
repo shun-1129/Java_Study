@@ -2,7 +2,6 @@
 public class Day02_Ensyu04 {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
 
 		
 		int even = 0;
