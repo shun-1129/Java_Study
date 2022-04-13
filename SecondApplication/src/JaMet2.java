@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Jamet2 {
+public class JaMet2 {
 
 	public static void main(String[] args) {
 		
