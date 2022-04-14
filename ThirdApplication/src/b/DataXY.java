@@ -1,3 +1,5 @@
+package b;
+import a.DataX;
 
 public class DataXY extends DataX {
 	public int y;

@@ -1,3 +1,4 @@
+package a;
 
 public class DataX2 {
 	private int x;

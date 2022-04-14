@@ -1,3 +1,4 @@
+import b.DataXY;
 
 public class JaKei1 {
 
