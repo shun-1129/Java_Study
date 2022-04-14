@@ -1,5 +1,5 @@
 
-public class JsCls03 {
+public class JaCls03 {
 
 	public static void main(String[] args) {
 
